@@ -1,0 +1,32 @@
+
+
+p, li {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    background: grey;
+    width: 50vh;
+}
+
+
+.r-img {
+    max-height: 40vh;
+}
+
+
+.centered {
+    text-align: center;
+    position: relative;
+}
+
+#fryback {
+    background-image: url("airfry.jpeg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+#steak {
+    background: url(https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7917630.jpg) no-repeat fixed center;
+
+
+}
